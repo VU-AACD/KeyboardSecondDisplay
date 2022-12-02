@@ -1,8 +1,8 @@
 # KeyboardSecondDisplay
-# Created as part of Villanova's Augmented Alternative Communication Device (AACD) Senior Design Project
- 
-iPad Application in Swift with custom full screen keyboard and second display output
+# iPad Application in Swift with custom full screen keyboard and second display output
 
+Created as part of Villanova's Augmented Alternative Communication Device (AACD) Senior Design Project
+ 
 Application displays functional, custom full screen keyboard along with a message preview to the user while
 simultaniously updating the ExternalView with a copy of the typed message that is displayed on an
 external display. Designed around the need for a more natural method of communincation for those with limited
